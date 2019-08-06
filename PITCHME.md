@@ -1,4 +1,4 @@
-# The title of my presentation here
+# Title of my presentation
 
 ---
 
