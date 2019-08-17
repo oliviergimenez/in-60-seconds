@@ -51,6 +51,8 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
 @snapend
 
+## Another slide
+
 ---?color=#1F6ED4
 
 # @fa[laptop-code fa-3x text-white]
