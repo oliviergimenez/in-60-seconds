@@ -1,17 +1,29 @@
-# GitPitch In-60-Seconds - A Very Short Tutorial.
 #
+# GitPitch Demo Deck
+#
+
+published : true
 
 #
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
 theme : template
+theme-headline : [ "Montserrat", "black", "none"]
+theme-byline   : [ "Raleway", "black", "none"]
+theme-text     : [ "Lato", "black", "none"]
 
 #
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override: assets/css/PITCHME.css
+theme-override : assets/css/PITCHME.css
+
+#
+# Highlight (Code) Setting
+# Doc: https://gitpitch.com/docs/settings/highlight
+#
+highlight : agate
 
 #
 # Logo Setting
@@ -21,27 +33,33 @@ logo : assets/img/logo.png
 logo-position : top-left
 
 #
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote: "Modern Slide Decks for Developers"
+
+#
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
 #
 layout : center
 
 #
-# Footnote Setting
-# Doc: https://gitpitch.com/docs/settings/footnote
+# MathJax Setting
+# Doc: https://gitpitch.com/docs/rich-media-features/math-formulas
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+mathjax : TeX-MML-AM_HTMLorMML-full
 
 #
-# Published Setting
-# Doc: https://gitpitch.com/docs/settings/published
+# Charts Setting
+# Doc: https://gitpitch.com/docs/rich-media-features/charts
 #
-published : true
+charts : true
 
 #
-# Twitter Card Settings [Pro Only]
+# Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing the power and simplicity of GitPitch, the markdown presentation service on Git."
-thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
+title : "GitPitch Modern Slide Decks for Developers"
+description : "A Modern Slide Deck demonstration powered by Markdown."
+# thumbnail : assets/img/customthumb.png
