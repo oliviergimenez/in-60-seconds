@@ -190,6 +190,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @olend
 
 
+---
 
 @title[A GitPitch Demo]
 # GitPitch
