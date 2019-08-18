@@ -16,3 +16,8 @@ mathjax : TeX-MML-AM_HTMLorMML-full
 #
 charts : true
 
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote: "Olivier Gimenez: Capture-recapture - A review of questions and methods"
