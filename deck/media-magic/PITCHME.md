@@ -54,28 +54,3 @@
  \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 \]`
 
----?color=#E58537;
-
-@snap[north-west h4-white span-50]
-#### PlantUML Diagrams
-@snapend
-
-@snap[west span-60]
-@code[uml rawcode code-noblend zoom-15](src/uml/sequence.puml)
-@snapend
-
-@snap[east span-40]
-@uml[span-100 box-shadow bg-white](src/uml/sequence.puml)
-@snapend
-
----?image=assets/img/lamps.jpg&size=90% 60%&color=#08090D&position=top
-@title[FontAwesome + Emojis]
-
-@snap[north-east h4-white span-50]
-#### FontAwesome + Emojis
-@snapend
-
-@snap[south span-100]
-## Happy @emoji[honeybee fa-spin] Bee
-### Sunshine @emoji[sunny] + Flowers @emoji[sunflower]
-@snapend
