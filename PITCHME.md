@@ -203,8 +203,6 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 
 ---?include=deck/image-magic/PITCHME.md
 
----?include=deck/media-magic/PITCHME.md
-
 ---?image=assets/img/wall.jpg
 @title[Now It's Your Turn]
 
